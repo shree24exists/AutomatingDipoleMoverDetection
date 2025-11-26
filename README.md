@@ -12,9 +12,9 @@ This project is purely educational and not commercial.
 - Converts each 4-frame book into a GIF for easy viewing
 
 ## Folder Structure
-Images/        # raw images (1.jpeg, 2.jpeg, ...)
-books/         # auto-organized sets of 4 frames
-gifs/          # GIF flipbooks
+Images        raw images (1.jpeg, 2.jpeg, ...)
+books         auto-organized sets of 4 frames
+gifs          GIF flipbooks
 organize.py    # groups raw images into book folders
 gif_maker.py   # converts 4 frames into one GIF
 
